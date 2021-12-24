@@ -2,7 +2,7 @@
 Module 7
 
 ## Analysis
-This project utilizes ~insert sql editor here~ to import the contents of several existing tables of employee and department information, and query the data to extract an estimated count of upcoming retirees and potential mentors in the employee database. 
+This project utilizes PostgreSQL to first import the contents of several existing tables of employee and department information, and query the data to extract an estimated count of upcoming retirees and potential mentors in the employee database. 
 ## Results
 * Bullet 1
 * Bullet 2
