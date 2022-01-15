@@ -6,6 +6,7 @@ This project utilizes PostgreSQL to first import the contents of several existin
 ## Results
 * There are a total of 300,024 employees. With a potential 72,458 employees retiring, that's over 24% of the company.
 * A significant amount of retirement age employees hold senior level positions
+
 ![image](https://user-images.githubusercontent.com/77989740/149634589-276125a1-fed0-4d92-8591-554a8bbd4782.png)
 
 * Many of these upper-level employees were promoted from entry level positions to their current role
