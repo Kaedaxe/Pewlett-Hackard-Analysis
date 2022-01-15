@@ -11,7 +11,9 @@ This project utilizes PostgreSQL to first import the contents of several existin
 
 * Many of these upper-level employees were promoted from entry level positions to their current role
 * There are only 1549 employees qualified for mentorship
+
 ![image](https://user-images.githubusercontent.com/77989740/149634968-383d1630-21f2-473d-9566-3620aa90b4b3.png)
+
 ## Summary
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 A total of ~72,500 roles will be vacated as the "silver tsunami" takes effect. A majority of these roles are senior staff and engineers, representing a great loss to the overall experience and leadership of the company's employee base.
